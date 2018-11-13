@@ -1,5 +1,1 @@
-[
-  "test/index_test.py::DashAppTestCase::test_api_routes",
-  "test/index_test.py::DashAppTestCase::test_dash",
-  "test/index_test.py::DashAppTestCase::test_html_routes"
-]
+[]
